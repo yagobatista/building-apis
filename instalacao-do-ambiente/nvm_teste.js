@@ -1,0 +1,1 @@
+console.log("Sua instalação do nvm e nodejs funcionaram")
